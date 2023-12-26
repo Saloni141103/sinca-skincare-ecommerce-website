@@ -25,28 +25,28 @@ Explore the power of Ayurveda with our meticulously crafted skincare products. S
 Enjoy a consistent and engaging experience across devices. Our responsive design ensures that you can navigate through our website seamlessly, whether you're on a desktop, tablet, or mobile device.
 
 <p align="center">
-  <img src="images/responsive-design.jpg" alt="Responsive Design" width="400">
+  <img src="images/responsive-design.jpg" alt="Responsive Design" width="800">
 </p>
 
 ### 🛒 Effortless Shopping
 Immerse yourself in a hassle-free shopping experience. Our intuitive product showcase allows you to browse through various categories, view product details, and add your favorite items to the cart with a single click.
 
 <p align="center">
-  <img src="images/effortless-shopping.jpg" alt="Effortless Shopping" width="400">
+  <img src="images/effortless-shopping.jpg" alt="Effortless Shopping" width="800">
 </p>
 
 ### 💼 Cart Management
 Keep track of your selected products with our convenient shopping cart feature. Easily manage your cart items, view the total quantity, and get an instant update on the total price.
 
 <p align="center">
-  <img src="images/cart-management.jpg" alt="Cart Management" width="400">
+  <img src="images/cart-management.jpg" alt="Cart Management" width="800">
 </p>
 
 ### 🎨 Aesthetically Pleasing
 Experience the beauty of skincare with our visually appealing design. The website incorporates soothing colors, elegant fonts, and high-quality images to create an atmosphere of tranquility and wellness.
 
 <p align="center">
-  <img src="images/aesthetically-pleasing.jpg" alt="Aesthetically Pleasing" width="400">
+  <img src="images/aesthetically-pleasing.jpg" alt="Aesthetically Pleasing" width="800">
 </p>
 
 ## Technologies Used
