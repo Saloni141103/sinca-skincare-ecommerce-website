@@ -1,14 +1,24 @@
-# sinca-skincare-ecommerce-website
-using html,css,javascript
+# 𝓢𝓲𝓷𝓬𝓪 𝓢𝓴𝓲𝓷𝓬𝓪𝓻𝓮 𝓦𝓮𝓫𝓼𝓲𝓽𝓮 🌿🌿
 
 
-# Sinca Skincare Website
+# Getting Started  
+🚀 Explore Now: Visit our Sinca Skincare website and experience the magic of Ayurvedic skincare:
+
+[🌿 Explore Sinca Skincare Website] (https://saloni141103.github.io/sinca-skincare-ecommerce-website/)
+
+🔗 [Direct Link to the Website] https://saloni141103.github.io/sinca-skincare-ecommerce-website/
+
+Feel free to share your thoughts and let your skin embark on a journey of radiance and wellness!
+
+
+
+## Sinca Skincare Website
 
 <p align="center">
   <img src="images/ayurvedic-logo.png" alt="Sinca Ayurvedic">
 </p>
 
-## Introduction
+### Introduction
 
 Welcome to the Sinca Skincare Website, where ancient Ayurvedic traditions meet modern skincare solutions. This project showcases our commitment to providing users with a seamless and delightful experience as they explore our range of Ayurvedic skincare products. The website is designed to be visually appealing, user-friendly, and informative, reflecting the essence of Sinca Skincare.
 
