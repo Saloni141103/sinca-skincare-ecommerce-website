@@ -18,7 +18,7 @@ Welcome to the Sinca Skincare Website, where ancient Ayurvedic traditions meet m
 Explore the power of Ayurveda with our meticulously crafted skincare products. Sinca Skincare combines traditional wisdom with modern science to offer a unique and effective range of serums, lip balms, cleansers, moisturizers, and more.
 
 <p align="center">
-  <img src="images/ayurvedic-ingredients.jpg" alt="Ayurvedic Ingredients" width="100%">
+  <img src="images/ayurvedic-ingredients.jpg" alt="Ayurvedic Ingredients" width="300">
 </p>
 
 ### 📱 Responsive Design
