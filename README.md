@@ -57,9 +57,17 @@ Experience the beauty of skincare with our visually appealing design. The websit
 - **Authentication**: JSON Web Tokens (JWT)
 - **Payment Integration**: (Specify the payment gateway used)
 
+
 ## Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Saloni14112003/sinca-skincare.git
+🚀 **Explore Now:**
+Visit our Sinca Skincare website and experience the magic of Ayurvedic skincare:
+
+[**🌿 Explore Sinca Skincare Website**]
+(https://saloni141103.github.io/sinca-skincare-ecommerce-website/)
+
+🔗 [Direct Link to the Website]
+https://saloni141103.github.io/sinca-skincare-ecommerce-website/
+
+Feel free to share your thoughts and let your skin embark on a journey of radiance and wellness!
 
